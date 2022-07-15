@@ -1,0 +1,23 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/homeFragment"
+        android:enabled="true"
+        android:icon="@drawable/home"
+        android:title="Home"/>
+    <item
+        android:id="@+id/searchFragment"
+        android:enabled="true"
+        android:icon="@drawable/search"
+        android:title="search"/>
+    <item
+        android:id="@+id/addSourceFragment"
+        android:enabled="true"
+        android:icon="@drawable/add_source"
+        android:title="add source"/>
+    <item
+        android:id="@+id/profileFragment"
+        android:enabled="true"
+        android:icon="@drawable/profile"
+        android:title="profile"/>
+
+</menu>
